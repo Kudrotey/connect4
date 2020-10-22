@@ -4,5 +4,5 @@ A simple two-player connect 4 game using pygame
 ### Run locally
 
 * Run the command `git clone https://github.com/Kudrotey/connect4.git`
-* Run the command `pip install pygame`
+* Run the command `pip install pygame, pip install numpy, pip install pyinputplus`
 * Open and Run the python file `connect_4.py`
